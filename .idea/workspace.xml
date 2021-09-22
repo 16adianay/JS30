@@ -2,16 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abfbd152-e6b4-4955-a10b-3a3d7f54107f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-START.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1yV1ZjoPuePuq1Kffh5qlPCmTM5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +43,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index-START.html">
+  <component name="RunManager" selected="JavaScript Debug.index-1.html">
+    <configuration name="index-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript30#1/index-1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index-FINISHED.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript30#1/index-FINISHED.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -35,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index-1.html" />
         <item itemvalue="JavaScript Debug.index-START.html" />
         <item itemvalue="JavaScript Debug.index-FINISHED.html" />
       </list>
@@ -50,7 +71,8 @@
       <updated>1632321998395</updated>
       <workItem from="1632321999708" duration="388000" />
       <workItem from="1632322405212" duration="407000" />
-      <workItem from="1632322832024" duration="1541000" />
+      <workItem from="1632322832024" duration="3224000" />
+      <workItem from="1632326843977" duration="1915000" />
     </task>
     <servers />
   </component>
