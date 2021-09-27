@@ -1,2 +1,2 @@
 # JS30
-JS 30 days challenge
+Vanilla JS 30 days challenge
